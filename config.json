@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdrocess",
+        "uuid": 23596253,
+        "checksum": "o8u64r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
